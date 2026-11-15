@@ -24,21 +24,11 @@ Survive for 60 seconds to win.
 
 # Controls
 
-Key
+Left Arrow / A - Move left
 
-Action
+Right Arrow / D - Move left
 
-Left Arrow / A
-
-Move left
-
-Right Arrow / D
-
-Move right
-
-Space
-
-Start or restart the game
+Space - Start or restart the game
 
 # Technologies Used
 
