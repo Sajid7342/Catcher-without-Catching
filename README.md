@@ -1,4 +1,4 @@
-Catching Balls Without Catching
+# Catching Balls Without Catching
 
 A simple 2D arcade survival game developed using Java and Processing for a game jam.
 
@@ -8,7 +8,7 @@ The idea behind the game is simple: you're playing as a character who must avoid
 
 Survive for 60 seconds, dodge the falling objects and try to achieve the highest score possible without losing all your lives.
 
-Gameplay
+# Gameplay
 
 Avoid the falling balls.
 
@@ -22,7 +22,7 @@ Objects gradually become faster as time passes.
 
 Survive for 60 seconds to win.
 
-Controls
+# Controls
 
 Key
 
@@ -40,13 +40,13 @@ Space
 
 Start or restart the game
 
-Technologies Used
+# Technologies Used
 
 Java
 
 Processing
 
-Project Structure
+# Project Structure
 
 CatcherWithoutCatching.pde – Main game logic and game states.
 
@@ -54,7 +54,7 @@ Player.pde – Player movement and appearance.
 
 FallingObject.pde – Falling object movement and appearance.
 
-How to Run
+# How to Run
 
 Download or clone this repository.
 
@@ -64,6 +64,6 @@ Open CatcherWithoutCatching.pde.
 
 Press Run to start the game.
 
-Objective
+* Objective
 
 Can you survive for 60 seconds without catching a single ball?
