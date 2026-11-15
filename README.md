@@ -64,6 +64,6 @@ Open CatcherWithoutCatching.pde.
 
 Press Run to start the game.
 
-* Objective
+# Objective
 
 Can you survive for 60 seconds without catching a single ball?
